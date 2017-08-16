@@ -1,0 +1,28 @@
+{
+  "name": "RESTFulAPIDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwang216/RESTFulAPIDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwang216/RESTFulAPIDemo/issues"
+  },
+  "homepage": "https://github.com/qwang216/RESTFulAPIDemo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.4.20",
+    "morgan": "^1.7.0"
+  }
+}
